@@ -22,5 +22,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Note:
--> If there is an error because of connection refused, update baseurl api with your computer ip address in lib/api.dart file, e.g. http://localhost:8084 to http://192.168.1.31:8084
--> Backend script: [flutterquestion-0.0.1-SNAPSHOT.jar](https://drive.google.com/file/d/1iKKR8XIIzdVCQy_fxTDhjEX4q0OUWiAQ/view?usp=sharing)
+- If there is an error because of connection refused, update baseurl api with your computer ip address in lib/api.dart file, e.g. http://localhost:8084 to http://192.168.1.31:8084
+- Backend script: [flutterquestion-0.0.1-SNAPSHOT.jar](https://drive.google.com/file/d/1iKKR8XIIzdVCQy_fxTDhjEX4q0OUWiAQ/view?usp=sharing)
